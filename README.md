@@ -11,9 +11,9 @@ You can verify my social identities using [Keybase](https://keybase.io/navillezh
 ## GPG Keys
 - ~~[EAB47648](https://keys.openpgp.org/vks/v1/by-fingerprint/2DD3AF5EF257577165BD3F09BCDB9630EAB47648)~~ Revoked. Private Key destroyed
 - ~~[C03D3AB0](https://keys.openpgp.org/vks/v1/by-fingerprint/0893EC6A29D3D844E4E0C16D2380D692C03D3AB0)~~ Revoked. Private Key destroyed
-- [25EF1AC0](https://raw.githubusercontent.com/Naville/Naville/master/25EF1AC0CAF7C8CA01E4E1C4BD3CCE5D409CDF9A.asc)
-- [D056BE73](https://raw.githubusercontent.com/Naville/Naville/master/D056BE730C6DA3B9C2C2EA5E85FA1BF17C7EE4FB.asc)
-Or ``keybase pgp pull navillezhang``
+- ~~[25EF1AC0](https://raw.githubusercontent.com/Naville/Naville/master/25EF1AC0CAF7C8CA01E4E1C4BD3CCE5D409CDF9A.asc)~~ Lost the physical token on 2023.07.23
+- ~~[D056BE73](https://raw.githubusercontent.com/Naville/Naville/master/D056BE730C6DA3B9C2C2EA5E85FA1BF17C7EE4FB.asc)~~ Lost the physical token on 2023.07.23
+- [B3D4AFE2](https://raw.githubusercontent.com/Naville/Naville/master/B3D4AFE298CA77AA776DF11AC9078243054CE41C.asc)
 
 # Resume
 - ``Nov 2022 - `` Everything LLVM @ miHoYo
