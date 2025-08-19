@@ -14,6 +14,7 @@ You can verify my social identities using [Keybase](https://keybase.io/navillezh
 - ~~[25EF1AC0](https://raw.githubusercontent.com/Naville/Naville/master/revoked/25EF1AC0CAF7C8CA01E4E1C4BD3CCE5D409CDF9A.asc)~~ Lost the physical token on 2023.07.23
 - ~~[D056BE73](https://raw.githubusercontent.com/Naville/Naville/master/revoked/D056BE730C6DA3B9C2C2EA5E85FA1BF17C7EE4FB.asc)~~ Lost the physical token on 2023.07.23
 - [B3D4AFE2](https://raw.githubusercontent.com/Naville/Naville/master/B3D4AFE298CA77AA776DF11AC9078243054CE41C.asc)
+- [E128CB18](https://github.com/Naville/Naville/blob/master/E128CB1805D2352733356DD61A07D268D20E355C.asc)
 
 ### GPG Attestation
 - Download YubiKey [Yubikey OPGP Attestation CA](https://developers.yubico.com/PGP/opgp-attestation-ca.pem)
